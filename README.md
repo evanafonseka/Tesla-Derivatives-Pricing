@@ -9,5 +9,5 @@ Crazy to think that the Black Scholes paper was published in 1973 and is still a
 - Created a free account with Azure ML and was able to run an AutoML regression experiment that tried various different algorithms that predict the price of the option 
 
 ## Findings
-![Uploading Screen Shot 2020-10-11 at 7.23.23 pm.png…]()
+![alt text](https://user-images.githubusercontent.com/49772033/95673828-e747c480-0bf7-11eb-89a4-f64f98f5ea22.png)
 
