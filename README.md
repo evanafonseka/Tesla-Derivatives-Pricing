@@ -10,9 +10,13 @@ Crazy to think that the Black Scholes paper was published in 1973 and is still a
 
 ## Findings
 ![alt text](https://user-images.githubusercontent.com/49772033/95673828-e747c480-0bf7-11eb-89a4-f64f98f5ea22.png)
+
 ![alt text](https://user-images.githubusercontent.com/49772033/95673889-3b52a900-0bf8-11eb-81ef-be789784c039.png)
+
 ![alt text](https://user-images.githubusercontent.com/49772033/95673903-56251d80-0bf8-11eb-9e64-8812b11eab4c.png)
+
 ![alt text](https://user-images.githubusercontent.com/49772033/95673922-6f2dce80-0bf8-11eb-9ecd-0b187c1196f0.png)
+
 ![alt text](https://user-images.githubusercontent.com/49772033/95673930-7f45ae00-0bf8-11eb-9909-edd857b6a227.png)
 
 
