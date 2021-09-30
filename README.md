@@ -1,11 +1,11 @@
 # Tesla-Derivatives-Pricing
-Crazy to think that the Black Scholes paper was published in 1973 and is still a core model taught by Finance professors accross the world.  
+Crazy to think that the Black Scholes paper was published in 1973 and is still a core model taught by Finance professors across the world.  
 
 ## Methodology
 - Used data from yfinance i.e. the option chain .csv file they publish
 - Calculated T with numpy and kept it at business days i.e. 252, moreover if T = 0, I changed the figure to 0.000001 in order to get an output
 - Calculated the Euro Call price using the Black-Scholes formula with pandas (if there are any errors please let me know)
-- Used options that were currenty "in the money"
+- Used options that were currently "in the money"
 - Created a free account with Azure ML and was able to run an AutoML regression experiment that tried various different algorithms that predict the price of the option 
 
 ## Findings
@@ -22,4 +22,4 @@ Crazy to think that the Black Scholes paper was published in 1973 and is still a
 
 ### What more work is there?
 - Need to look at rewriting the Longstaff Schwartz in Pandas (might need to spin up a high spec vm)
-- Run another set of experiments using other exteraneuous variables to predict option price
+- Run another set of experiments using other extraneous variables to predict option price
